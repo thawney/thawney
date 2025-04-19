@@ -1,7 +1,5 @@
 # 👋Hi, I'm Thawney
-A musician, producer, stage tech, developer and content creator from England :D
-- 👀 I’m interested in Python, C++, Game Development, Music Production, Audio Technology & Livestreaming
-- 🌱 I’m currently learning Juce & MaxMSP
-- 💞️ I’m looking to collaborate on game development projects where you need music & Music/Audio Technology projects & Synth Projects!
-- 📫 Check out my [discord server](https://dsc.gg/thawney) or contact me on [twitter](https://twitter.com/_thawney) or [instagram](https://instagram.com/_thawney)
+- I'm a nonbinary Musician, Programmer and product deisgner.
+- My projects often involve humans interacting with technology, particularly in the realms of music tech and accessibility. 
+- One of my main goals is to make music technology more accessible. I am also passionate about exploring new creative frontiers and love collaborating on projects that push the boundaries of art and technology.
 - 🔗 For more info check out [my website](https://thawney.com/) :D
